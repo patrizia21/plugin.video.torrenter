@@ -46,7 +46,7 @@
     <string id="30046">Torrent2HTTP (libtorrent vía HTTP)</string>
     <string id="30047">Proxy para búsquedas</string>
     <string id="31047">Proxy para listas de contenido</string>
-    <string id="32047">IP del proxy SOCKS</string>
+    <string id="32047">Dirección IP de proxy SOCKS</string>
     <string id="30048">Ninguno</string>
     <string id="30049">Anti-zapret (antirrestricción)</string>
     <string id="31050">Tor</string>
